@@ -1792,13 +1792,13 @@ const HTML_CONTENT = `
 
 <body>
     <div class="fixed-elements">
-	<p><a style="color: #0000FF;">搭建各类导航博客节点代码</a></p>
+	<p><a style="color: #0000FF;">代码汇集</a></p>
         <div class="center-content">
             <!-- 一言模块 -->
             <p id="hitokoto">
                 <a href="#" id="hitokoto_text"></a>
             </p>
-            <p><a href="https://xuer.us.kg" target="_blank" style="color: #333fff;">点击返回主页</a></p>
+            <p><a href="https://xuer.us.kg" target="_blank" style="color: #FF0000;">点击返回主页</a></p>
             <!-- 搜索栏 -->
             <div class="search-container">
                 <div class="search-bar">
